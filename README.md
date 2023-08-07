@@ -1,5 +1,4 @@
-# Getting Started with Create React App
+# Gasniar-Entertaiment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Project using react create web https://gasniarmovie.netlify.app/
 
